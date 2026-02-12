@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/davife2025/jobint-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/davife2025/jobint-backend
